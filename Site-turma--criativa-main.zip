@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="cabeçalho">
+<img class="cabeçalho-imagem" src="images-removebg-preview.png" alt="Logo Colégio Estadual Rocha Pombo EFMP">
+<ul class="cabeçalho-lista">
+
+<li class="cabeçalho-lista-item">Estudante</li>
+</ul></header>
+<section class="ESCOLA">
+<div class="ESCOLA-DIV-CONTEUDO">
+<h2 class="ESCOLA-TITULO">SOBRE A ESCOLA</h2>
+<P class="ESCOLA-TEXTO UM"> O colégio estadual Rocha Pombo, situa-se na cidade de Capanema-PR, o colégio possui o ensino médio matutino e noturo e o curso profissionalizante
+Formação de docentes, o qual prepara os alunos para serem professores do nível básico de ensino. O colégio também oferta o ensino integral, do 6° ao 9° ano.
+Regida pelo diretor Neivor Kessler, pelo vice-diretor Adair Ribeiro Lemos e pedagogos.</P>
+
+<p class="ESCOLA-TEXTO-DOIS"> A TURMA DO SEGUNDO ANO DO
+ENSINO MÉDIO É UMA DAS MAIORES TURMAS, TENDO
+36 ALUNOS, QUE FREQUENTAM DIARIAMENTE A SALA E A ESCOLA.
+</p>
+</div>
+<Img class="ESCOLA-IMAGEM" src="1401820452RochaPombo17.jpg"></Img>
+</section>
+
+
+</body>
+</html>
