@@ -1,34 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="cabeçalho">
-<img class="cabeçalho-imagem" src="images-removebg-preview.png" alt="Logo Colégio Estadual Rocha Pombo EFMP">
-<ul class="cabeçalho-lista">
+    <header class="cabeçalho">
+    <img class="cabeçalho-imagem" src="/tmp/guest-t54zzz/Downloads/57049354_413896509193008_8610636312891883520_n.jpg" alt="Logo Colégio Estadual Rocha Pombo EFMP">
+    <ul class="cabeçalho-lista">
+        </li>
+        <li class="cabeçalho-lista-item">Estudante</li>
+    </ul></header>
+    <section class="ESCOLA">
+    <div class="ESCOLA-DIV-CONTEUDO">
+       <h2 class="ESCOLA-TITULO">SOBRE A ESCOLA</h2>
+       <P class="ESCOLA-TEXTO UM"> O colégio Estadual Rocha Pombo conta com ampla estrutura para fornecer conhecimento para todos os alunos.</P>
 
-<li class="cabeçalho-lista-item">Estudante</li>
-</ul></header>
-<section class="ESCOLA">
-<div class="ESCOLA-DIV-CONTEUDO">
-<h2 class="ESCOLA-TITULO">SOBRE A ESCOLA</h2>
-<P class="ESCOLA-TEXTO UM"> O colégio estadual Rocha Pombo, situa-se na cidade de Capanema-PR, o colégio possui o ensino médio matutino e noturo e o curso profissionalizante
-Formação de docentes, o qual prepara os alunos para serem professores do nível básico de ensino. O colégio também oferta o ensino integral, do 6° ao 9° ano.
-Regida pelo diretor Neivor Kessler, pelo vice-diretor Adair Ribeiro Lemos e pedagogos.</P>
-
-<p class="ESCOLA-TEXTO-DOIS"> A TURMA DO SEGUNDO ANO DO
-ENSINO MÉDIO É UMA DAS MAIORES TURMAS, TENDO
-36 ALUNOS, QUE FREQUENTAM DIARIAMENTE A SALA E A ESCOLA.
-</p>
-</div>
+        <p class="ESCOLA-TEXTO-DOIS"> A turma do segundo ano é a maior da escola, com mais de 35 alunos.
+        </p>
+ </div>
 <Img class="ESCOLA-IMAGEM" src="1401820452RochaPombo17.jpg"></Img>
+    </section>
 </section>
-
-
+<section class="estudante">
+    <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+    <div class="estudante-todos">
+    <span></span>
+    <div class="estudante-div">
+        <img class="estudante-imagem" src="download.jpeg" alt="foto da aluna Sofia">
+        <h3 class="estudante-nome">Sofia</h3>
+        <a href="cwb_sofia@.com"><img class="estudante-icone" src="intagram.png" alt="icone instragram"></a>
+    </div>
+    </div>
+</section>
+    
 </body>
 </html>
